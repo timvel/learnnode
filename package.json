@@ -1,0 +1,22 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "site for learning node.js",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timvel/learnnode.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "learner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timvel/learnnode/issues"
+  },
+  "homepage": "https://github.com/timvel/learnnode"
+}
